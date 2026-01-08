@@ -13,11 +13,11 @@ This is my fully responsive and animated portfolio website showcasing my backgro
 
 ## 📸 Preview
 
-![Screenshot](assets/images/preview.png)
+<!--![Screenshot](assets/images/preview.png)-->
 
 ## 🌐 Live Preview
 
-[View My Portfolio](https://poorvimathur22.github.io/Portfolio-Website/) <!-- Replace with actual URL -->
+[View My Portfolio](https://amishavermaa.github.io/Amisha_Verma_Portfolio/) <!-- Replace with actual URL -->
 
 ## 📁 Tech Stack
 
