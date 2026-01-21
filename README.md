@@ -15,9 +15,6 @@ This is my fully responsive and animated portfolio website showcasing my backgro
 
 <!--![Screenshot](assets/images/preview.png)-->
 
-## 🌐 Live Preview
-
-[View My Portfolio](https://amishavermaa.github.io/Amisha_Verma_Portfolio/) <!-- Replace with actual URL -->
 
 ## 📁 Tech Stack
 
